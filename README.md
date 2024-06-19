@@ -1,5 +1,4 @@
 import java.security.SecureRandom;
-
 public class PasswordGenerator {
     private static final String CHAR_LOWER = "abcdefghijklmnopqrstuvwxyz";
     private static final String CHAR_UPPER = CHAR_LOWER.toUpperCase();
